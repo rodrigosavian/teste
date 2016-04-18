@@ -2,6 +2,6 @@
 	"full_name": "Rodrigo Savian",
 	"email": "rodrigo.savian@luizalabs.com",
 	"github_username": "rodrigosavian-luizalabs",
-	"repo_name": "cookiecutter-tornado",
-	"app_name": "api",
+	"repo_name": "api",
+	"app_name": "api"
 }
