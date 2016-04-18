@@ -1,8 +1,7 @@
 {
-	"full_name": "Steven Loria",
-	"email": "sloria1@gmail.com",
-	"github_username": "sloria",
-	"project_name": "My Flask App",
-	"app_name": "myflaskapp",
-	"project_short_description": "A flasky app."
+	"full_name": "Rodrigo Savian",
+	"email": "rodrigo.savian@luizalabs.com",
+	"github_username": "rodrigosavian-luizalabs",
+	"repo_name": "cookiecutter-tornado",
+	"app_name": "api",
 }
